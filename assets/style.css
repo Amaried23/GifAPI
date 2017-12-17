@@ -1,0 +1,12 @@
+button,
+    form,
+    input {
+      margin: 10px;
+    }
+
+
+    .characterimg {
+   display: inline-block;
+    margin: 3px;
+
+}
